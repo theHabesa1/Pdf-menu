@@ -23,13 +23,13 @@ Make sure you have Node.js and npm installed on your machine.
 1. Clone the repository to your local machine.
 
    ```bash
-   git clone https://github.com/your-username/react-pdf-menu-displayer.git
+   git clone https://github.com/theHabesa1/pdf-menu.git
    ```
 
 2. Change to the project directory.
 
    ```bash
-   cd react-pdf-menu-displayer
+   cd pdf-menu
    ```
 
 3. Install the project dependencies.
