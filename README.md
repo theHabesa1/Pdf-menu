@@ -72,10 +72,3 @@ If you'd like to contribute to this project, please follow the guidelines in [CO
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
-## Acknowledgments
-
-- [React](https://reactjs.org/)
-- [Vite](https://vitejs.dev/)
-- [pdf.js](https://mozilla.github.io/pdf.js/)
-
-Feel free to reach out if you have any questions or encounter issues. Happy coding!
