@@ -7,6 +7,7 @@ import YodDin from './page/yoddin';
 import Kaiser from './page/kaiser';
 import Bon from './page/bona';
 import Adiz from './page/adiz';
+import Misale from './page/misale';
 
 const App = () => {
   return (
@@ -18,6 +19,7 @@ const App = () => {
       <Route path="/kaiser" element={<Kaiser />} />
       <Route path="/Bon" element={<Bon />} />
       <Route path="/adiz" element={<Adiz />} />
+      <Route path="/misale" element={<Misale />} />
       
     </Routes>
   );
